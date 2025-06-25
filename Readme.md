@@ -9,11 +9,11 @@ Este é um conversor de moedas desenvolvido como parte do desafio "Challenge Bac
 
     Veja o resultado da conversão imediatamente exibido abaixo.
 
-🎥 Demonstração
+## 🎥 Demonstração
 
-Clique na imagem abaixo para assistir à demonstração completa do projeto no YouTube:
+[![Assista à demonstração no YouTube](https://img.youtube.com/vi/ahpt6aRgZyM/0.jpg)](https://youtu.be/ahpt6aRgZyM)
 
-Assista à demonstração no YouTube
+
 🧠 Sobre o Projeto
 
 Este projeto representa um dos maiores desafios que enfrentei até agora na minha jornada como desenvolvedor. Com muito esforço e dedicação, consegui finalizá-lo — e é com grande alegria que compartilho esse resultado com vocês!
